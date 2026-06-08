@@ -1,0 +1,2454 @@
+1
+00:00:39,144 --> 00:00:42,105
+<i>I'm sure you're aware Japan's ratio</i>
+<i>of determining the cause of death</i>
+
+2
+00:00:42,188 --> 00:00:43,815
+is much lower than in other countries?
+
+3
+00:00:43,898 --> 00:00:44,732
+Yes.
+
+4
+00:00:44,816 --> 00:00:46,150
+To improve that,
+
+5
+00:00:46,234 --> 00:00:51,990
+we're going to experimentally introduce
+the American medical examiner system.
+
+6
+00:00:52,699 --> 00:00:54,367
+Medical examiner?
+
+7
+00:00:54,450 --> 00:00:57,871
+The biggest difference from Japan's system
+is that medical examiners,
+
+8
+00:00:57,954 --> 00:01:01,624
+<i>or forensic pathologists,</i>
+<i>have investigative authority.</i>
+
+9
+00:01:16,973 --> 00:01:17,932
+What?
+
+10
+00:01:18,474 --> 00:01:23,021
+Does that mean doctors
+can investigate cases like the police?
+
+11
+00:01:23,104 --> 00:01:25,732
+No, not in exactly the same way,
+
+12
+00:01:25,815 --> 00:01:28,943
+<i>but they can conduct investigations</i>
+<i>to determine the cause of death.</i>
+
+13
+00:01:29,027 --> 00:01:31,779
+<i>They also have the authority</i>
+<i>to determine the need for an autopsy.</i>
+
+14
+00:01:33,907 --> 00:01:35,617
+I see…
+
+15
+00:01:54,510 --> 00:01:55,428
+<i>So,</i>
+
+16
+00:01:55,511 --> 00:01:57,931
+<i>we're bringing in Dr. Masumi Mizusawa,</i>
+
+17
+00:01:58,014 --> 00:02:00,892
+<i>who has worked as a medical examiner</i>
+<i>in the US for 15 years.</i>
+
+18
+00:02:00,975 --> 00:02:02,268
+And Ms. Kiryu,
+
+19
+00:02:02,352 --> 00:02:05,855
+you'll be the director
+of Medical Examiner Japan.
+
+20
+00:02:06,356 --> 00:02:07,357
+Okay.
+
+21
+00:02:09,984 --> 00:02:10,902
+What?
+
+22
+00:02:37,470 --> 00:02:39,347
+Why am I being demoted?
+
+23
+00:02:39,430 --> 00:02:41,307
+I mean, there's no way a policy change
+
+24
+00:02:41,391 --> 00:02:44,185
+is going to increase the rate
+of determining the cause of death.
+
+25
+00:02:45,061 --> 00:02:46,437
+And you know,
+
+26
+00:02:46,521 --> 00:02:49,816
+I became a bureaucrat
+because I wanted to create systems
+
+27
+00:02:49,899 --> 00:02:52,860
+that let everyone in this country
+live their lives smiling.
+
+28
+00:02:53,444 --> 00:02:55,446
+This topic is not even my specialty.
+
+29
+00:02:55,530 --> 00:02:57,073
+I don't have the knowledge.
+
+30
+00:02:57,156 --> 00:02:59,283
+And I'm supposed to be in charge on-site?
+
+31
+00:03:00,076 --> 00:03:01,661
+There's no way I can do it.
+
+32
+00:03:06,374 --> 00:03:07,709
+CENTER DIRECTOR
+MAHO KIRYU
+
+33
+00:03:15,425 --> 00:03:17,093
+Oh! Dr. Mizusawa?
+
+34
+00:03:17,176 --> 00:03:19,220
+I'm Masumi Mizusawa.
+
+35
+00:03:19,303 --> 00:03:20,805
+Call me Masumi.
+
+36
+00:03:20,888 --> 00:03:21,889
+I'm Kiryu.
+
+37
+00:03:21,973 --> 00:03:23,975
+-Pleasure to meet you.
+-Same here.
+
+38
+00:03:24,600 --> 00:03:25,560
+Huh?
+
+39
+00:03:26,269 --> 00:03:28,354
+-Did you just come from the airport?
+-Yes.
+
+40
+00:03:29,355 --> 00:03:31,482
+Are you okay with your jet lag?
+
+41
+00:03:31,566 --> 00:03:33,359
+Well… I don't know.
+
+42
+00:03:33,443 --> 00:03:38,031
+You know, jet lag is like rigor mortis.
+
+43
+00:03:38,823 --> 00:03:40,700
+Jet lag is like rigor mortis?
+
+44
+00:03:41,367 --> 00:03:42,660
+What do you mean?
+
+45
+00:03:42,744 --> 00:03:43,619
+Well…
+
+46
+00:03:44,120 --> 00:03:47,206
+Jet lag doesn't happen
+just because of time.
+
+47
+00:03:47,290 --> 00:03:50,418
+It depends on light exposure
+and the amount of sleep.
+
+48
+00:03:50,918 --> 00:03:53,671
+Rigor mortis isn't determined
+by time alone either.
+
+49
+00:03:53,755 --> 00:03:57,050
+It changes based on temperature,
+humidity, and posture.
+
+50
+00:03:57,133 --> 00:04:01,179
+In other words, both depend
+not just on time, but on conditions.
+
+51
+00:04:04,182 --> 00:04:05,224
+Oh, okay.
+
+52
+00:04:06,392 --> 00:04:07,352
+Right…
+
+53
+00:04:07,435 --> 00:04:08,269
+Good.
+
+54
+00:04:10,855 --> 00:04:14,734
+It finally starts tomorrow,
+the medical examiner system.
+
+55
+00:04:17,528 --> 00:04:19,781
+Ms. Dojima, should we call them?
+
+56
+00:04:19,864 --> 00:04:20,823
+Call who?
+
+57
+00:04:20,907 --> 00:04:23,117
+You know, the new system starting today,
+
+58
+00:04:23,201 --> 00:04:26,079
+where we have to report
+all abnormal deaths
+
+59
+00:04:26,162 --> 00:04:28,831
+to that, uh, medical examiner.
+
+60
+00:04:28,915 --> 00:04:31,459
+Oh, that ridiculous system.
+
+61
+00:04:31,542 --> 00:04:33,294
+No need to call them.
+
+62
+00:04:33,378 --> 00:04:34,212
+Yes, ma'am!
+
+63
+00:04:34,295 --> 00:04:37,048
+At this hour, no one would even
+answer the phone, right?
+
+64
+00:04:37,131 --> 00:04:38,216
+Call them then.
+
+65
+00:04:38,299 --> 00:04:40,468
+It will prove
+that we tried to contact them.
+
+66
+00:04:40,551 --> 00:04:42,261
+Yes, ma'am! I will call them!
+
+67
+00:04:45,098 --> 00:04:45,973
+They answered!
+
+68
+00:04:46,057 --> 00:04:47,683
+Sorry to keep you waiting.
+
+69
+00:04:47,767 --> 00:04:48,768
+It's fine.
+
+70
+00:04:48,851 --> 00:04:51,896
+Decomposition doesn't progress much
+at this hour.
+
+71
+00:04:53,272 --> 00:04:54,107
+What?
+
+72
+00:04:55,024 --> 00:04:55,942
+Hello.
+
+73
+00:05:22,927 --> 00:05:24,345
+Who are you? What are you--
+
+74
+00:05:24,429 --> 00:05:25,513
+Hey, stop!
+
+75
+00:05:25,596 --> 00:05:27,932
+-He's the medical examiner.
+-Huh?
+
+76
+00:05:28,015 --> 00:05:30,268
+What's that? I wasn't told about it.
+
+77
+00:05:30,351 --> 00:05:31,811
+I'm the supervisor, Kiryu.
+
+78
+00:05:32,520 --> 00:05:34,730
+With the new system, any unusual deaths
+
+79
+00:05:34,814 --> 00:05:37,358
+must first be examined by
+a forensic pathologist.
+
+80
+00:05:37,441 --> 00:05:38,985
+The medical examiner will--
+
+81
+00:05:39,986 --> 00:05:40,903
+Um…
+
+82
+00:05:44,615 --> 00:05:47,618
+The deceased's mother
+was the first to discover the body.
+
+83
+00:05:50,288 --> 00:05:52,331
+His clothes are wet.
+
+84
+00:05:52,415 --> 00:05:54,417
+Keitaro Aikawa, 17 years old.
+
+85
+00:05:54,500 --> 00:05:56,127
+He didn't come home by dawn,
+
+86
+00:05:56,210 --> 00:05:59,672
+so his mother got worried, searched
+the neighborhood, and found him here.
+
+87
+00:05:59,755 --> 00:06:02,049
+She called 119 and performed CPR.
+
+88
+00:06:02,133 --> 00:06:05,761
+They determined he was clearly
+already dead, so he wasn't transported.
+
+89
+00:06:05,845 --> 00:06:07,054
+Found a smartphone.
+
+90
+00:06:07,138 --> 00:06:09,473
+The pond is about 40 centimeters deep.
+
+91
+00:06:09,557 --> 00:06:10,766
+-This is murder.
+-Yes.
+
+92
+00:06:10,850 --> 00:06:13,769
+There's no way someone drowns
+in a pond this shallow.
+
+93
+00:06:14,812 --> 00:06:16,814
+I'm sorry to bother you at a tough time.
+
+94
+00:06:16,898 --> 00:06:19,775
+May I ask about the situation
+when you found your son--
+
+95
+00:06:19,859 --> 00:06:21,777
+Hey, don't… I'm sorry, Ma'am.
+
+96
+00:06:21,861 --> 00:06:22,945
+Back off.
+
+97
+00:06:23,654 --> 00:06:24,739
+Doctor.
+
+98
+00:06:24,822 --> 00:06:27,575
+Could you stop interfering
+in the investigation?
+
+99
+00:06:29,202 --> 00:06:30,494
+I'm not interfering.
+
+100
+00:06:30,578 --> 00:06:31,412
+What?
+
+101
+00:06:31,495 --> 00:06:32,955
+You just did.
+
+102
+00:06:33,039 --> 00:06:36,042
+This is a legitimate investigation
+based on the authority
+
+103
+00:06:36,125 --> 00:06:38,419
+granted to a medical examiner.
+
+104
+00:06:39,879 --> 00:06:41,214
+Supervisor.
+
+105
+00:06:41,923 --> 00:06:43,758
+Care to explain what's going on?
+
+106
+00:06:46,469 --> 00:06:49,180
+In order to determine the cause of death,
+
+107
+00:06:49,263 --> 00:06:51,766
+medical examiners
+are granted investigative rights.
+
+108
+00:06:51,849 --> 00:06:53,434
+Are you playing detective?
+
+109
+00:06:53,517 --> 00:06:56,687
+Also, under this system,
+all abnormal deaths must be evaluated,
+
+110
+00:06:56,771 --> 00:06:59,357
+and the medical examiner
+decides if an autopsy is needed.
+
+111
+00:06:59,440 --> 00:07:01,108
+It's clearly a murder.
+
+112
+00:07:01,192 --> 00:07:02,860
+It is, it is a murder!
+
+113
+00:07:02,944 --> 00:07:06,322
+We still don't know
+whether it's a homicide.
+
+114
+00:07:10,451 --> 00:07:11,410
+You're in my way.
+
+115
+00:07:38,020 --> 00:07:40,481
+Why is a bureaucrat the director here?
+
+116
+00:07:41,732 --> 00:07:42,567
+What?
+
+117
+00:07:43,067 --> 00:07:45,069
+Do you even have a medical license?
+
+118
+00:07:45,152 --> 00:07:46,445
+Do you?
+
+119
+00:07:48,322 --> 00:07:52,994
+No, I don't, but this is not only
+a medical institution, it's also part of
+
+120
+00:07:53,077 --> 00:07:56,289
+the country's policy
+in determining the cause of death.
+
+121
+00:07:56,372 --> 00:07:59,458
+There's a document from the Ministry
+about autopsy regulations, right?
+
+122
+00:07:59,542 --> 00:08:00,459
+Yes.
+
+123
+00:08:00,543 --> 00:08:03,254
+Created by the department
+overseeing the medical system.
+
+124
+00:08:03,838 --> 00:08:07,049
+That document
+is completely useless in the field.
+
+125
+00:08:07,550 --> 00:08:09,885
+You don't say.
+
+126
+00:08:10,386 --> 00:08:11,679
+Really?
+
+127
+00:08:13,014 --> 00:08:14,223
+Of course, it is.
+
+128
+00:08:14,307 --> 00:08:17,268
+It was made by bureaucrats
+who don't understand the field.
+
+129
+00:08:27,236 --> 00:08:28,404
+Let's begin.
+
+130
+00:09:00,353 --> 00:09:01,896
+Are you okay?
+
+131
+00:09:01,979 --> 00:09:03,272
+I'm totally fine.
+
+132
+00:09:04,815 --> 00:09:07,360
+The cause of death is drowning.
+
+133
+00:09:07,443 --> 00:09:09,945
+In a 40-centimeter-deep pond?
+
+134
+00:09:10,029 --> 00:09:12,406
+-Yes.
+-How could he have drowned there?
+
+135
+00:09:12,490 --> 00:09:15,368
+So he drowned somewhere else
+and was moved there?
+
+136
+00:09:15,451 --> 00:09:16,952
+No, that doesn't add up.
+
+137
+00:09:17,036 --> 00:09:19,955
+The plankton in the pond water
+matches what was in his lungs.
+
+138
+00:09:20,039 --> 00:09:23,000
+That means he was alive
+when he entered the water.
+
+139
+00:09:23,084 --> 00:09:27,254
+So he was assaulted, lost consciousness,
+and then thrown into the pond?
+
+140
+00:09:27,338 --> 00:09:29,757
+There were small abrasions on his palms.
+
+141
+00:09:29,840 --> 00:09:32,343
+Possibly defensive injuries
+from when he fell.
+
+142
+00:09:32,426 --> 00:09:35,596
+That suggests he was conscious,
+trying to defend himself.
+
+143
+00:09:35,680 --> 00:09:36,764
+It doesn't add up.
+
+144
+00:09:36,847 --> 00:09:41,143
+So then, he was pushed
+into the pond while conscious?
+
+145
+00:09:41,227 --> 00:09:44,897
+The pond is 40 centimeters deep.
+He should have been able to stand up.
+
+146
+00:09:44,980 --> 00:09:46,023
+It doesn't add up.
+
+147
+00:09:46,107 --> 00:09:49,276
+Then maybe someone held his face down
+while he tried to get up.
+
+148
+00:09:49,360 --> 00:09:53,656
+That would leave marks on the head,
+neck, and shoulders.
+
+149
+00:09:53,739 --> 00:09:55,116
+It doesn't add up.
+
+150
+00:09:55,199 --> 00:09:58,536
+So then how did he drown
+in a 40-centimeter-deep pond?
+
+151
+00:09:58,619 --> 00:09:59,662
+Who knows?
+
+152
+00:10:00,162 --> 00:10:01,706
+I wonder.
+
+153
+00:10:02,456 --> 00:10:03,666
+It's a mystery.
+
+154
+00:10:08,170 --> 00:10:09,171
+Well, whatever.
+
+155
+00:10:10,131 --> 00:10:10,965
+Then,
+
+156
+00:10:11,632 --> 00:10:13,718
+what about signs of assault?
+
+157
+00:10:21,934 --> 00:10:27,356
+There are injuries to the head and chest
+caused by external force.
+
+158
+00:10:27,440 --> 00:10:30,693
+First, on the head, the marks
+are concentrated in two places.
+
+159
+00:10:30,776 --> 00:10:34,905
+Likely left by a great external force,
+such as from a weapon.
+
+160
+00:10:34,989 --> 00:10:37,950
+As for the chest fractures,
+there are three patterns.
+
+161
+00:10:38,033 --> 00:10:40,870
+One was caused by CPR.
+
+162
+00:10:40,953 --> 00:10:44,373
+There was no bleeding or vital reaction.
+
+163
+00:10:44,874 --> 00:10:46,667
+In regard to this area,
+
+164
+00:10:46,751 --> 00:10:52,006
+it shows a significant loss of blood,
+and was very likely caused by assault.
+
+165
+00:10:52,089 --> 00:10:53,799
+And the last one
+
+166
+00:10:53,883 --> 00:10:56,719
+is one that can't be explained
+by either of the other two.
+
+167
+00:10:58,387 --> 00:11:03,058
+It does not show a strong vital reaction,
+but there was something.
+
+168
+00:11:03,142 --> 00:11:06,979
+This mark shows the slightest
+amount of vital reaction.
+
+169
+00:11:07,062 --> 00:11:09,273
+Is that the clue to
+determining it was homicide?
+
+170
+00:11:09,356 --> 00:11:11,358
+I don't know if it will or not.
+
+171
+00:11:11,442 --> 00:11:16,030
+But it might be a piece of the puzzle
+to solve the mystery.
+
+172
+00:11:19,033 --> 00:11:22,036
+Anyway, solve it quickly.
+
+173
+00:11:22,119 --> 00:11:23,787
+-Supervisor.
+-Yes?
+
+174
+00:11:24,371 --> 00:11:26,582
+Do your job and supervise.
+
+175
+00:11:36,217 --> 00:11:37,343
+What's that?
+
+176
+00:11:38,135 --> 00:11:40,846
+The content of the notebook by the pond.
+
+177
+00:11:40,930 --> 00:11:42,431
+<i>The phone next to it</i>
+
+178
+00:11:42,515 --> 00:11:45,142
+was the one that belonged to
+Keitaro Aikawa.
+
+179
+00:11:45,226 --> 00:11:47,394
+Then the phone in the pond…
+
+180
+00:11:47,478 --> 00:11:48,979
+Still being verified.
+
+181
+00:11:51,565 --> 00:11:54,026
+Does anyone know what this means?
+
+182
+00:11:54,527 --> 00:11:56,779
+For now, it's a mystery.
+
+183
+00:11:56,862 --> 00:12:00,366
+We identified the owner of the phone.
+
+184
+00:12:00,449 --> 00:12:02,826
+-What?
+-Ryoya Sakagami, 17 years old.
+
+185
+00:12:02,910 --> 00:12:04,286
+One arrest for marijuana dealing.
+
+186
+00:12:04,370 --> 00:12:05,955
+He's a member of a group
+
+187
+00:12:06,038 --> 00:12:09,041
+<i>based out of Club Heads</i>
+<i>that engages in fraud and drug dealing.</i>
+
+188
+00:12:16,840 --> 00:12:18,217
+Why are you running away?
+
+189
+00:12:20,719 --> 00:12:21,595
+Hey!
+
+190
+00:12:24,473 --> 00:12:27,142
+Police! Nobody move!
+
+191
+00:12:34,817 --> 00:12:38,529
+When was the last time
+you saw Ryoya Sakagami?
+
+192
+00:12:39,321 --> 00:12:41,782
+You were having him sell marijuana,
+were you not?
+
+193
+00:12:41,865 --> 00:12:43,450
+Don't know him.
+
+194
+00:12:43,534 --> 00:12:46,870
+Cut the crap! Don't cover for a murderer!
+
+195
+00:12:47,371 --> 00:12:48,581
+Murderer?
+
+196
+00:12:49,623 --> 00:12:50,499
+Ryoya?
+
+197
+00:12:51,875 --> 00:12:53,043
+Who did he kill?
+
+198
+00:12:53,127 --> 00:12:55,879
+-Aikawa--
+-A 17-year-old boy.
+
+199
+00:13:00,509 --> 00:13:01,552
+You don't mean…
+
+200
+00:13:02,720 --> 00:13:03,929
+Keitaro?
+
+201
+00:13:08,017 --> 00:13:09,935
+How do you know that?
+
+202
+00:13:10,686 --> 00:13:12,730
+Was he one of your group too?
+
+203
+00:13:14,023 --> 00:13:15,441
+Any marijuana show up?
+
+204
+00:13:15,524 --> 00:13:16,775
+Initially not,
+
+205
+00:13:16,859 --> 00:13:19,528
+but when we retested
+using liquid chromatography,
+
+206
+00:13:19,612 --> 00:13:23,365
+marijuana was detected
+in Keitaro Aikawa's blood and urine.
+
+207
+00:13:23,449 --> 00:13:24,491
+I knew it.
+
+208
+00:13:24,575 --> 00:13:26,243
+Huh? What does that mean?
+
+209
+00:13:26,327 --> 00:13:29,079
+<i>Keitaro Aikawa</i>
+<i>was part of a marijuana trafficking group.</i>
+
+210
+00:13:29,163 --> 00:13:32,708
+<i>He and one of the members, Ryoya Sakagami,</i>
+<i>ran off with the marijuana.</i>
+
+211
+00:13:32,791 --> 00:13:35,711
+Then, they may have had
+a falling out, and he was killed.
+
+212
+00:13:35,794 --> 00:13:39,757
+<i>We're currently tracking Ryoya Sakagami</i>
+<i>as a key person of interest.</i>
+
+213
+00:13:39,840 --> 00:13:42,468
+I'm going to Keitaro Aikawa's home.
+
+214
+00:13:42,551 --> 00:13:44,970
+-What's that?
+-Some questions need answers.
+
+215
+00:13:45,054 --> 00:13:47,014
+The numbers and arrows in the notebook,
+
+216
+00:13:47,097 --> 00:13:49,350
+the weak vital signs
+of the chest fracture,
+
+217
+00:13:49,433 --> 00:13:52,102
+and why he drowned
+in a 40-centimeter-deep pond.
+
+218
+00:13:52,186 --> 00:13:54,521
+There may be pieces there
+that solve these mysteries.
+
+219
+00:13:54,605 --> 00:13:55,939
+Hey, Supervisor!
+
+220
+00:13:56,023 --> 00:13:59,360
+Medical examiners are granted
+investigative rights to gather info--
+
+221
+00:13:59,443 --> 00:14:01,070
+-Hold on!
+-Wait!
+
+222
+00:14:07,785 --> 00:14:09,036
+SONGWRITING NOTES VOL 3
+
+223
+00:14:10,913 --> 00:14:12,331
+SONGWRITING NOTES VOL 3
+
+224
+00:14:24,468 --> 00:14:26,178
+DID THE SOUND GET WORSE??
+
+225
+00:14:30,140 --> 00:14:31,266
+IT'S NOT FAIR
+
+226
+00:14:31,350 --> 00:14:32,476
+GOD SAVE ME
+
+227
+00:14:33,978 --> 00:14:34,812
+WHY?
+
+228
+00:14:34,895 --> 00:14:36,230
+I'M SCARED… REALLY SCARED
+
+229
+00:14:39,233 --> 00:14:40,317
+IT'S OVER
+
+230
+00:14:40,401 --> 00:14:41,860
+I'M SO, SO SCARED
+
+231
+00:14:41,944 --> 00:14:43,237
+SHIT SHIT SHIT
+
+232
+00:14:50,744 --> 00:14:51,787
+Ms. Dojima.
+
+233
+00:14:51,870 --> 00:14:53,497
+No marijuana was found.
+
+234
+00:14:56,291 --> 00:14:57,167
+Let's go.
+
+235
+00:14:57,251 --> 00:14:58,127
+Okay.
+
+236
+00:15:05,884 --> 00:15:09,138
+Did Keitaro like music?
+
+237
+00:15:09,888 --> 00:15:12,016
+If you're done, leave already.
+
+238
+00:15:25,571 --> 00:15:27,281
+Man, I'm exhausted.
+
+239
+00:15:27,364 --> 00:15:29,908
+Today felt insanely long. Way too long.
+
+240
+00:15:30,701 --> 00:15:32,911
+Being demoted was humiliating enough,
+
+241
+00:15:32,995 --> 00:15:35,706
+but going out into the field
+made it even worse.
+
+242
+00:15:35,789 --> 00:15:37,499
+I really can't do anything.
+
+243
+00:15:39,793 --> 00:15:42,588
+I'm just there. Just watching.
+But I'm the one in charge.
+
+244
+00:15:42,671 --> 00:15:44,590
+I want to go back to my old job.
+
+245
+00:15:45,257 --> 00:15:47,885
+There's no way
+I'm stuck in the field forever, right?
+
+246
+00:15:49,136 --> 00:15:51,221
+This is Medical Examiner Japan.
+
+247
+00:16:09,573 --> 00:16:12,701
+He really liked music.
+
+248
+00:16:14,620 --> 00:16:16,038
+It sounds silly, but…
+
+249
+00:16:17,456 --> 00:16:20,334
+he used to say he wanted to be a musician…
+
+250
+00:16:22,336 --> 00:16:23,295
+Even though
+
+251
+00:16:24,797 --> 00:16:27,841
+becoming one
+is harder than winning the lottery.
+
+252
+00:16:29,593 --> 00:16:30,511
+But
+
+253
+00:16:31,553 --> 00:16:32,554
+then…
+
+254
+00:16:34,723 --> 00:16:36,475
+his hearing went bad.
+
+255
+00:16:39,311 --> 00:16:40,437
+He said
+
+256
+00:16:41,814 --> 00:16:43,649
+he was giving up on music.
+
+257
+00:16:45,442 --> 00:16:47,611
+He had worked so hard at it,
+
+258
+00:16:48,278 --> 00:16:49,238
+<i>so I think</i>
+
+259
+00:16:50,114 --> 00:16:51,782
+<i>it was a massive shock to him.</i>
+
+260
+00:16:57,121 --> 00:16:58,247
+Around that time,
+
+261
+00:17:00,082 --> 00:17:01,041
+Ryoya…
+
+262
+00:17:03,043 --> 00:17:06,171
+a delinquent he knew
+from middle school, invited him.
+
+263
+00:17:07,214 --> 00:17:08,590
+Because of him…
+
+264
+00:17:10,634 --> 00:17:12,261
+Keitaro joined a bad crowd.
+
+265
+00:17:18,892 --> 00:17:20,102
+Marijuana, huh?
+
+266
+00:17:21,186 --> 00:17:22,354
+Maybe he…
+
+267
+00:17:26,108 --> 00:17:28,569
+Maybe he was a good-for-nothing kid,
+
+268
+00:17:29,236 --> 00:17:30,612
+but to me,
+
+269
+00:17:32,322 --> 00:17:34,074
+he was my precious child.
+
+270
+00:17:38,620 --> 00:17:42,082
+I want to know why this happened.
+
+271
+00:17:45,169 --> 00:17:47,087
+I want to know what happened.
+
+272
+00:17:48,046 --> 00:17:50,215
+The whole truth.
+
+273
+00:17:53,844 --> 00:17:54,970
+Please.
+
+274
+00:17:56,763 --> 00:17:58,932
+Find out the truth.
+
+275
+00:18:01,643 --> 00:18:03,270
+If he was murdered…
+
+276
+00:18:06,023 --> 00:18:07,566
+I will never forgive them.
+
+277
+00:18:10,569 --> 00:18:13,405
+I have no future left, anyway.
+
+278
+00:18:14,656 --> 00:18:17,284
+I'll live my life just to hate the killer.
+
+279
+00:18:46,230 --> 00:18:47,522
+What are you doing?
+
+280
+00:18:52,611 --> 00:18:54,279
+What? Sudoku?
+
+281
+00:19:35,028 --> 00:19:36,488
+Hey, where are you going?
+
+282
+00:19:36,571 --> 00:19:38,407
+-The pond.
+-What?
+
+283
+00:19:38,490 --> 00:19:40,993
+There might be a piece
+I haven't found yet.
+
+284
+00:19:46,456 --> 00:19:47,708
+What are you doing here?
+
+285
+00:19:48,166 --> 00:19:49,126
+Investigating.
+
+286
+00:19:49,710 --> 00:19:51,336
+Investigating, huh?
+
+287
+00:19:52,337 --> 00:19:54,214
+Did the police find out anything?
+
+288
+00:19:58,885 --> 00:20:00,637
+It wasn't on the day of the crime.
+
+289
+00:20:00,721 --> 00:20:03,223
+He was seen with a man
+thought to be Ryoya Sakagami.
+
+290
+00:20:03,307 --> 00:20:05,684
+Standing opposite each other
+across the pond.
+
+291
+00:20:05,767 --> 00:20:10,022
+They were shouting, clapping,
+and throwing stones into the water.
+
+292
+00:20:10,814 --> 00:20:13,650
+Most likely, they were just high
+and acting out.
+
+293
+00:20:26,413 --> 00:20:28,582
+Oh, it's Ms. Dojima. Excuse me.
+
+294
+00:20:28,665 --> 00:20:29,791
+Don't answer.
+
+295
+00:20:29,875 --> 00:20:31,752
+-No, but--
+-I said don't answer it.
+
+296
+00:20:35,255 --> 00:20:36,298
+What?
+
+297
+00:21:19,883 --> 00:21:21,051
+The pieces
+
+298
+00:21:21,885 --> 00:21:22,886
+might be…
+
+299
+00:21:25,138 --> 00:21:26,431
+coming together.
+
+300
+00:21:40,987 --> 00:21:41,863
+Hey!
+
+301
+00:21:43,657 --> 00:21:44,699
+Damn it!
+
+302
+00:21:46,410 --> 00:21:47,702
+Let me go!
+
+303
+00:21:49,996 --> 00:21:51,164
+Now what?
+
+304
+00:21:51,248 --> 00:21:53,834
+<i>-I would like you to check something.</i>
+-What?
+
+305
+00:21:53,917 --> 00:21:57,295
+About the apps on Keitaro Aikawa's phone.
+
+306
+00:21:57,379 --> 00:21:58,505
+Look, forget it.
+
+307
+00:21:58,588 --> 00:22:01,675
+They caught Ryoya Sakagami,
+and the interrogation is about to start.
+
+308
+00:22:01,758 --> 00:22:03,343
+I'll be right there!
+
+309
+00:22:05,262 --> 00:22:07,639
+-You're even coming to the interrogation?
+<i>-Yes.</i>
+
+310
+00:22:07,722 --> 00:22:11,893
+Based on the legitimate authority
+granted to a medical examiner--
+
+311
+00:22:11,977 --> 00:22:13,437
+Enough!
+
+312
+00:22:13,520 --> 00:22:14,980
+Fine, I get it.
+
+313
+00:22:16,148 --> 00:22:19,651
+You went to the pond on April 6th, right?
+
+314
+00:22:22,320 --> 00:22:24,156
+What happened there?
+
+315
+00:22:29,327 --> 00:22:30,829
+What did you do?
+
+316
+00:22:35,917 --> 00:22:37,419
+I didn't go to the pond.
+
+317
+00:22:37,502 --> 00:22:40,547
+Then why was your phone found in the pond?
+
+318
+00:22:48,096 --> 00:22:49,139
+Excuse me.
+
+319
+00:22:49,222 --> 00:22:51,933
+May I ask a question?
+
+320
+00:22:59,357 --> 00:23:00,483
+Go ahead.
+
+321
+00:23:12,621 --> 00:23:14,206
+Do you know
+
+322
+00:23:14,998 --> 00:23:16,041
+what this is?
+
+323
+00:23:22,839 --> 00:23:24,090
+You know
+
+324
+00:23:25,342 --> 00:23:27,093
+what this means, don't you?
+
+325
+00:23:35,018 --> 00:23:35,852
+Yes.
+
+326
+00:23:43,985 --> 00:23:45,028
+And,
+
+327
+00:23:46,404 --> 00:23:51,243
+there were three types of fractures
+on Keitaro Aikawa's chest.
+
+328
+00:23:52,869 --> 00:23:53,912
+The first
+
+329
+00:23:54,621 --> 00:23:56,081
+was from being assaulted.
+
+330
+00:23:57,457 --> 00:23:58,625
+The second
+
+331
+00:23:59,167 --> 00:24:02,212
+was from his mother performing CPR.
+
+332
+00:24:05,298 --> 00:24:06,508
+The third one…
+
+333
+00:24:08,510 --> 00:24:09,844
+was from you, right?
+
+334
+00:24:20,939 --> 00:24:22,315
+What happened?
+
+335
+00:24:30,407 --> 00:24:31,783
+I'm sorry.
+
+336
+00:24:35,328 --> 00:24:36,371
+I'm sorry.
+
+337
+00:24:37,998 --> 00:24:39,332
+I'm sorry.
+
+338
+00:24:43,253 --> 00:24:44,671
+I'm sorry.
+
+339
+00:24:49,759 --> 00:24:51,136
+I'm sorry.
+
+340
+00:24:52,220 --> 00:24:53,555
+I'm sorry.
+
+341
+00:25:01,771 --> 00:25:06,026
+I will now explain
+the cause of Keitaro's death.
+
+342
+00:25:07,068 --> 00:25:08,236
+Please.
+
+343
+00:25:09,529 --> 00:25:10,905
+We determined
+
+344
+00:25:10,989 --> 00:25:13,491
+that the cause of death was drowning.
+
+345
+00:25:15,076 --> 00:25:18,455
+First, around 5:00 p.m. the prior evening,
+
+346
+00:25:18,538 --> 00:25:21,082
+<i>he was struck in the head,</i>
+<i>causing a hematoma,</i>
+
+347
+00:25:21,166 --> 00:25:22,876
+<i>essentially a lump.</i>
+
+348
+00:25:23,376 --> 00:25:27,547
+Left alone, it was an injury
+that would have healed naturally.
+
+349
+00:25:29,716 --> 00:25:32,927
+After that, Keitaro came to this pond.
+
+350
+00:25:34,387 --> 00:25:36,514
+This pond has a bridge spanning it,
+
+351
+00:25:36,598 --> 00:25:38,808
+and the surrounding slopes
+form a bowl shape,
+
+352
+00:25:38,892 --> 00:25:41,811
+creating an environment
+where sound echoes easily.
+
+353
+00:25:46,900 --> 00:25:48,568
+MASUMI MIZUSAWA
+
+354
+00:25:51,863 --> 00:25:54,532
+The sound bounces back
+from various directions,
+
+355
+00:25:54,616 --> 00:25:58,078
+making you lose sense
+of where it's actually coming from.
+
+356
+00:25:58,661 --> 00:26:01,414
+For Keitaro, who was hard of hearing
+in his left ear,
+
+357
+00:26:01,498 --> 00:26:03,583
+it was particularly confusing.
+
+358
+00:26:21,810 --> 00:26:23,853
+Then, at around 10:00 p.m. that night,
+
+359
+00:26:23,937 --> 00:26:26,398
+<i>while Keitaro was standing</i>
+<i>at the edge of the pond,</i>
+
+360
+00:26:26,481 --> 00:26:28,525
+<i>a motorcycle horn honked.</i>
+
+361
+00:26:29,901 --> 00:26:34,239
+A horn is designed to resonate loudly
+in a specific direction ahead.
+
+362
+00:26:34,781 --> 00:26:37,575
+<i>Keitaro got startled by it,</i>
+
+363
+00:26:37,659 --> 00:26:40,537
+<i>feeling as though the sound source</i>
+<i>was close to him.</i>
+
+364
+00:26:40,620 --> 00:26:44,541
+<i>He instinctively tried to avoid</i>
+<i>the loud noise from an unknown direction,</i>
+
+365
+00:26:44,624 --> 00:26:47,001
+<i>and it is likely that he slipped.</i>
+
+366
+00:26:47,085 --> 00:26:48,253
+<i>He fell into the pond</i>
+
+367
+00:26:48,336 --> 00:26:50,880
+<i>and hit his head on the water's surface.</i>
+
+368
+00:26:51,589 --> 00:26:52,757
+<i>At that moment,</i>
+
+369
+00:26:52,841 --> 00:26:56,302
+<i>a second impact was delivered</i>
+<i>to a brain that had already been damaged.</i>
+
+370
+00:26:56,386 --> 00:27:00,682
+This is known as Second Impact Syndrome.
+
+371
+00:27:01,683 --> 00:27:05,812
+If the brain receives a second blow
+before it has recovered from the first,
+
+372
+00:27:06,438 --> 00:27:11,776
+even a minor force can amplify the damage
+and lead to a fatal outcome.
+
+373
+00:27:12,360 --> 00:27:13,653
+<i>In Keitaro's case,</i>
+
+374
+00:27:13,736 --> 00:27:17,323
+<i>he suffered a severe concussion</i>
+<i>and lost consciousness.</i>
+
+375
+00:27:17,949 --> 00:27:19,159
+As a result,
+
+376
+00:27:20,034 --> 00:27:24,205
+he drowned in a pond
+only 40 centimeters deep.
+
+377
+00:27:26,166 --> 00:27:27,000
+What?
+
+378
+00:27:28,918 --> 00:27:29,794
+In other words,
+
+379
+00:27:31,421 --> 00:27:34,883
+it was a tragic accident resulting
+from a series of coincidences.
+
+380
+00:27:38,136 --> 00:27:39,220
+An accident?
+
+381
+00:27:46,769 --> 00:27:49,314
+If he hadn't been hit in the head,
+
+382
+00:27:49,397 --> 00:27:51,024
+he wouldn't have died, right?
+
+383
+00:27:52,984 --> 00:27:55,361
+If that horn hadn't been honked,
+
+384
+00:27:55,445 --> 00:27:56,988
+he wouldn't have died.
+
+385
+00:27:58,114 --> 00:28:01,451
+He died because someone did those things,
+didn't he?
+
+386
+00:28:03,995 --> 00:28:06,748
+And yet, you call it an accident.
+
+387
+00:28:10,043 --> 00:28:11,628
+I won't accept that.
+
+388
+00:28:12,587 --> 00:28:14,130
+I can't let it be.
+
+389
+00:28:15,632 --> 00:28:17,592
+Keitaro was murdered.
+
+390
+00:28:19,511 --> 00:28:21,471
+Wasn't it Ryoya who honked the horn?
+
+391
+00:28:21,554 --> 00:28:23,973
+I know he rides a bike.
+
+392
+00:28:24,057 --> 00:28:26,309
+That boy killed Keitaro, right?
+
+393
+00:28:26,392 --> 00:28:28,811
+Arrest him. Aren't you the police?
+
+394
+00:28:28,895 --> 00:28:31,105
+I understand how you feel.
+
+395
+00:28:31,189 --> 00:28:33,274
+But based on the objective facts,
+
+396
+00:28:33,358 --> 00:28:36,653
+the police are treating this case
+as an accident.
+
+397
+00:28:36,736 --> 00:28:41,032
+We have released the person of interest
+after questioning.
+
+398
+00:28:41,115 --> 00:28:42,909
+That's not right.
+
+399
+00:28:43,535 --> 00:28:45,495
+Keitaro is dead,
+
+400
+00:28:45,578 --> 00:28:47,914
+so why does he get to live a normal life?
+
+401
+00:28:50,416 --> 00:28:51,918
+I understand how you feel,
+
+402
+00:28:52,418 --> 00:28:56,923
+but these are the facts
+derived from a forensic perspective.
+
+403
+00:28:58,132 --> 00:28:59,175
+I told you
+
+404
+00:29:00,593 --> 00:29:02,971
+I can't accept that.
+
+405
+00:29:11,437 --> 00:29:13,481
+Shouldn't we tell her about it?
+
+406
+00:29:15,692 --> 00:29:16,776
+That thing?
+
+407
+00:29:24,784 --> 00:29:25,994
+Yes.
+
+408
+00:29:36,087 --> 00:29:40,091
+My job is to convey the results
+of the cause-of-death investigation.
+
+409
+00:29:41,426 --> 00:29:44,637
+Anything else is not for me to say.
+
+410
+00:29:46,806 --> 00:29:47,765
+However…
+
+411
+00:29:50,018 --> 00:29:52,270
+you are the supervisor, Ms. Kiryu.
+
+412
+00:29:54,606 --> 00:29:57,191
+If there is something else
+you want to convey,
+
+413
+00:29:57,275 --> 00:30:00,153
+please use your own judgment.
+
+414
+00:30:15,084 --> 00:30:16,502
+<i>But to me,</i>
+
+415
+00:30:16,586 --> 00:30:18,838
+he was my precious child.
+
+416
+00:30:18,922 --> 00:30:20,965
+I want to know what happened.
+
+417
+00:30:21,549 --> 00:30:23,468
+The whole truth.
+
+418
+00:30:34,896 --> 00:30:38,232
+The one who honked the horn
+was Ryoya Sakagami.
+
+419
+00:30:38,816 --> 00:30:39,609
+Hey.
+
+420
+00:30:40,860 --> 00:30:42,236
+What are you doing?
+
+421
+00:30:42,862 --> 00:30:44,989
+It's the decision of the supervisor.
+
+422
+00:30:47,617 --> 00:30:49,035
+Do what you want.
+
+423
+00:30:49,118 --> 00:30:51,371
+The police won't take responsibility.
+
+424
+00:31:00,213 --> 00:31:01,381
+Ms. Aikawa…
+
+425
+00:31:02,882 --> 00:31:07,011
+Keitaro hadn't given up on his dream.
+
+426
+00:31:08,346 --> 00:31:10,014
+How could you know that?
+
+427
+00:31:11,182 --> 00:31:14,936
+It's the arrows and numbers
+written in the notebook.
+
+428
+00:31:17,105 --> 00:31:19,649
+<i>Because Keitaro</i>
+<i>could only hear out of one ear,</i>
+
+429
+00:31:19,732 --> 00:31:24,070
+<i>the direction sound was coming from</i>
+<i>differed from the actual source.</i>
+
+430
+00:31:27,740 --> 00:31:30,243
+<i>He was using this pond</i>
+<i>to confirm that deviation,</i>
+
+431
+00:31:30,326 --> 00:31:32,787
+<i>and was trying to correct it himself.</i>
+
+432
+00:31:35,331 --> 00:31:37,458
+Close! You're almost there.
+
+433
+00:31:41,629 --> 00:31:43,589
+<i>The arrows are the direction of the sound,</i>
+
+434
+00:31:43,673 --> 00:31:46,009
+<i>and the numbers represent</i>
+<i>the angle of the shift.</i>
+
+435
+00:31:48,052 --> 00:31:49,721
+You're amazing, Keitaro.
+
+436
+00:31:49,804 --> 00:31:51,723
+You're making progress.
+
+437
+00:31:52,682 --> 00:31:54,767
+I shouldn't have invited you
+into the gang.
+
+438
+00:31:55,727 --> 00:31:56,853
+I'm really sorry.
+
+439
+00:32:00,398 --> 00:32:03,234
+Do you think I can still be a musician?
+
+440
+00:32:05,653 --> 00:32:06,821
+You will.
+
+441
+00:32:07,739 --> 00:32:08,990
+If anyone can, it's you.
+
+442
+00:32:10,199 --> 00:32:11,951
+So you have to get out of the gang.
+
+443
+00:32:15,079 --> 00:32:15,997
+Right.
+
+444
+00:32:17,790 --> 00:32:18,708
+But,
+
+445
+00:32:19,542 --> 00:32:21,753
+my mom used to say all the time
+
+446
+00:32:21,836 --> 00:32:26,799
+that becoming a musician
+is harder than winning the lottery.
+
+447
+00:32:31,054 --> 00:32:34,599
+And then, on that day, Keitaro was…
+
+448
+00:32:39,145 --> 00:32:39,979
+I…
+
+449
+00:32:41,898 --> 00:32:43,316
+want out.
+
+450
+00:32:44,067 --> 00:32:45,026
+I don't want…
+
+451
+00:32:47,236 --> 00:32:48,780
+to sell marijuana anymore.
+
+452
+00:32:59,207 --> 00:33:00,374
+Come here!
+
+453
+00:33:01,501 --> 00:33:04,754
+<i>The trace amount of marijuana</i>
+<i>detected in Keitaro</i>
+
+454
+00:33:04,837 --> 00:33:07,507
+<i>was most likely from secondhand smoke.</i>
+
+455
+00:33:21,062 --> 00:33:23,064
+Can't you just let Keitaro go?
+
+456
+00:33:24,857 --> 00:33:26,609
+I'll sell his share too.
+
+457
+00:33:27,902 --> 00:33:28,986
+Just please
+
+458
+00:33:30,029 --> 00:33:31,322
+let Keitaro out.
+
+459
+00:33:42,583 --> 00:33:43,543
+Please!
+
+460
+00:33:44,502 --> 00:33:45,336
+Hey.
+
+461
+00:33:46,087 --> 00:33:47,088
+Hey!
+
+462
+00:33:47,171 --> 00:33:48,714
+Stand up, asshole.
+
+463
+00:33:49,298 --> 00:33:50,716
+Don't fuck with us!
+
+464
+00:33:52,969 --> 00:33:54,262
+Please…
+
+465
+00:33:55,263 --> 00:33:56,139
+Please!
+
+466
+00:33:56,222 --> 00:33:57,890
+-You little shit…
+-Please…
+
+467
+00:33:57,974 --> 00:33:58,850
+Take that!
+
+468
+00:34:03,563 --> 00:34:04,480
+Bastard!
+
+469
+00:34:04,564 --> 00:34:05,481
+Please.
+
+470
+00:34:10,987 --> 00:34:12,238
+Please.
+
+471
+00:34:12,321 --> 00:34:13,990
+You little shit…
+
+472
+00:34:18,578 --> 00:34:19,662
+Please.
+
+473
+00:34:23,374 --> 00:34:24,333
+In exchange,
+
+474
+00:34:24,417 --> 00:34:27,128
+you bring in three million yen
+in one week.
+
+475
+00:34:38,347 --> 00:34:39,765
+Thank you!
+
+476
+00:34:43,227 --> 00:34:44,645
+Thank you!
+
+477
+00:34:49,108 --> 00:34:50,735
+Thank you!
+
+478
+00:35:10,296 --> 00:35:11,547
+Lame.
+
+479
+00:35:16,177 --> 00:35:17,553
+He honked his horn
+
+480
+00:35:19,180 --> 00:35:21,807
+because he wanted to tell Keitaro
+the good news.
+
+481
+00:35:25,144 --> 00:35:28,231
+He was just happy and honked it.
+
+482
+00:35:36,864 --> 00:35:37,823
+Hey!
+
+483
+00:35:38,616 --> 00:35:40,409
+Quit messing around.
+
+484
+00:35:48,751 --> 00:35:50,044
+Keitaro!
+
+485
+00:35:50,127 --> 00:35:52,129
+Hey! Keitaro? Hey!
+
+486
+00:35:52,213 --> 00:35:53,172
+Hey!
+
+487
+00:35:56,592 --> 00:35:57,718
+Keitaro!
+
+488
+00:35:57,802 --> 00:35:59,720
+Keitaro!
+
+489
+00:35:59,804 --> 00:36:01,222
+Keitaro!
+
+490
+00:36:02,265 --> 00:36:03,391
+Keitaro…
+
+491
+00:36:04,267 --> 00:36:06,477
+Keitaro!
+
+492
+00:36:06,560 --> 00:36:07,770
+Keitaro…
+
+493
+00:36:19,699 --> 00:36:21,534
+<i>I thought he might have died</i>
+
+494
+00:36:23,077 --> 00:36:25,037
+<i>because of the CPR I gave him.</i>
+
+495
+00:36:28,582 --> 00:36:30,001
+I got scared and ran away.
+
+496
+00:36:35,881 --> 00:36:37,008
+I'm sorry.
+
+497
+00:36:48,227 --> 00:36:50,187
+If Ryoya had called an ambulance,
+
+498
+00:36:51,439 --> 00:36:52,857
+would he have lived?
+
+499
+00:36:55,109 --> 00:36:56,027
+No.
+
+500
+00:36:58,154 --> 00:36:59,697
+Even if he had called one,
+
+501
+00:37:00,698 --> 00:37:02,825
+the result would have been the same.
+
+502
+00:37:05,578 --> 00:37:08,706
+There was a fracture
+on Keitaro's chest that showed
+
+503
+00:37:08,789 --> 00:37:11,500
+a very slight vital reaction.
+
+504
+00:37:12,626 --> 00:37:13,586
+That was
+
+505
+00:37:14,754 --> 00:37:17,131
+from the CPR performed
+
+506
+00:37:18,132 --> 00:37:20,092
+by Ryoya Sakagami.
+
+507
+00:37:21,969 --> 00:37:25,222
+The fact that the vital reaction
+was so minimal
+
+508
+00:37:25,306 --> 00:37:28,809
+proves that the CPR
+was performed immediately after death.
+
+509
+00:37:28,893 --> 00:37:31,729
+In other words, it means that Keitaro
+
+510
+00:37:33,439 --> 00:37:35,399
+had already passed away.
+
+511
+00:37:48,537 --> 00:37:49,580
+Ms. Aikawa.
+
+512
+00:37:52,500 --> 00:37:54,043
+CPR…
+
+513
+00:37:56,295 --> 00:37:57,755
+was performed twice.
+
+514
+00:38:00,800 --> 00:38:06,305
+The two sets of marks
+on Keitaro's chest were both
+
+515
+00:38:07,390 --> 00:38:08,682
+left by people
+
+516
+00:38:10,101 --> 00:38:13,896
+who desperately wanted him to live.
+
+517
+00:38:18,943 --> 00:38:20,236
+Keitaro…
+
+518
+00:38:20,903 --> 00:38:22,238
+Keitaro!
+
+519
+00:38:22,738 --> 00:38:23,948
+Please!
+
+520
+00:38:24,698 --> 00:38:25,699
+Keitaro!
+
+521
+00:38:26,367 --> 00:38:27,660
+Stay with me, Keitaro!
+
+522
+00:38:27,743 --> 00:38:28,994
+Keitaro!
+
+523
+00:38:29,787 --> 00:38:30,704
+Keitaro!
+
+524
+00:38:30,788 --> 00:38:32,164
+Keitaro!
+
+525
+00:38:32,248 --> 00:38:33,916
+Please!
+
+526
+00:38:33,999 --> 00:38:35,459
+Keitaro!
+
+527
+00:38:35,543 --> 00:38:36,627
+Keitaro!
+
+528
+00:38:36,710 --> 00:38:37,795
+Keitaro!
+
+529
+00:38:37,878 --> 00:38:39,296
+Keitaro!
+
+530
+00:38:40,172 --> 00:38:41,674
+Keitaro!
+
+531
+00:38:41,757 --> 00:38:43,050
+Keitaro!
+
+532
+00:38:50,057 --> 00:38:51,142
+So…
+
+533
+00:38:56,230 --> 00:38:58,274
+you're telling me to forgive him?
+
+534
+00:39:05,156 --> 00:39:06,949
+Don't make it sound so simple.
+
+535
+00:40:28,906 --> 00:40:30,950
+Dying like that…
+
+536
+00:40:33,035 --> 00:40:35,913
+is harder than winning
+the lottery, isn't it?
+
+537
+00:40:45,589 --> 00:40:46,632
+I'm sorry.
+
+538
+00:40:55,432 --> 00:40:56,809
+I'm sorry.
+
+539
+00:40:58,519 --> 00:40:59,687
+I'm sorry.
+
+540
+00:41:00,479 --> 00:41:01,522
+I'm sorry.
+
+541
+00:41:05,484 --> 00:41:06,652
+I'm sorry.
+
+542
+00:41:10,281 --> 00:41:11,407
+I'm sorry.
+
+543
+00:41:18,497 --> 00:41:19,748
+I'm sorry…
+
+544
+00:41:49,653 --> 00:41:52,364
+Regarding the pickup
+of Keitaro Aikawa's body,
+
+545
+00:41:52,448 --> 00:41:55,826
+the funeral director should be here
+in about 20 minutes.
+
+546
+00:41:55,909 --> 00:41:57,786
+Okay. Thank you.
+
+547
+00:42:06,754 --> 00:42:09,506
+Thank you for today.
+
+548
+00:42:14,553 --> 00:42:15,387
+But,
+
+549
+00:42:17,222 --> 00:42:18,807
+I think my decision today
+
+550
+00:42:20,309 --> 00:42:21,644
+was one step away
+
+551
+00:42:23,395 --> 00:42:27,316
+from rubbing the bereaved mother
+the wrong way.
+
+552
+00:42:39,662 --> 00:42:40,829
+In America,
+
+553
+00:42:41,830 --> 00:42:44,875
+they call the deceased a "Loved One."
+
+554
+00:42:48,128 --> 00:42:49,171
+Loved One?
+
+555
+00:42:57,054 --> 00:42:58,597
+Does that mean someone…
+
+556
+00:43:00,599 --> 00:43:02,393
+who was important
+
+557
+00:43:04,478 --> 00:43:06,146
+to someone else?
+
+558
+00:43:09,483 --> 00:43:10,818
+The term…
+
+559
+00:43:13,696 --> 00:43:14,905
+is hard to translate.
+
+560
+00:43:16,699 --> 00:43:17,700
+What?
+
+561
+00:43:20,452 --> 00:43:22,579
+It's a word only used at the scene,
+
+562
+00:43:24,039 --> 00:43:26,625
+and also a word only for oneself.
+
+563
+00:43:29,002 --> 00:43:31,422
+A word only for oneself?
+
+564
+00:43:33,257 --> 00:43:34,258
+Yes.
+
+565
+00:43:37,720 --> 00:43:39,471
+Only you can decide
+
+566
+00:43:40,639 --> 00:43:43,016
+what it means.
+
+567
+00:43:45,018 --> 00:43:47,104
+Your decision today
+
+568
+00:43:47,855 --> 00:43:53,277
+was your own way
+of facing a Loved One, wasn't it?
+
+569
+00:44:36,236 --> 00:44:37,571
+The death was caused by a fall.
+
+570
+00:44:37,654 --> 00:44:38,864
+Is it fun?
+
+571
+00:44:38,947 --> 00:44:41,366
+Talking about someone's death like that?
+
+572
+00:44:41,450 --> 00:44:43,994
+<i>If I had known it would be</i>
+<i>the last time, I--</i>
+
+573
+00:44:44,077 --> 00:44:45,579
+It's not over yet.
+
+574
+00:44:45,662 --> 00:44:47,122
+You're a forensic pathologist.
+
+575
+00:44:47,206 --> 00:44:50,042
+<i>There may still be a piece</i>
+<i>we haven't found yet.</i>
+
+576
+00:44:50,125 --> 00:44:51,001
+Subtitle translation by: Maslin F.
+
